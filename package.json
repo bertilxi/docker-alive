@@ -13,6 +13,6 @@
   "dependencies": {
     "axios": "^0.18.0",
     "chalk": "^2.4.1",
-    "typepack": "^0.0.12"
+    "typepack": "^0.2.1"
   }
 }
